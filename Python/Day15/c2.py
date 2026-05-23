@@ -1,0 +1,5 @@
+def fun(x):
+
+    print(x)
+
+fun(10)
