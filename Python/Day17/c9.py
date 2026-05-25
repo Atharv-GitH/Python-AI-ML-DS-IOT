@@ -1,0 +1,15 @@
+
+
+class Demo:
+
+    x = 10
+
+    def disp():
+
+        print("in disp")
+
+obj = Demo()
+
+print(obj.x)            # 10
+
+disp()
